@@ -1,7 +1,7 @@
 ## Secret to Success
 
 - **Hands-on Linux & Open-Source Tools**
-  - Practice Linux commands and real open-source tools daily
+  - Practice Linux commands and Github real open source tools daily
 
 - **Projects & Blogs**
   - Build real projects
