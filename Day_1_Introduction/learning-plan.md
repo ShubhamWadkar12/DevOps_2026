@@ -36,7 +36,7 @@
 
 - **Weekdays:** 2 to 2.5 hours per day  
 - **Weekends:** 4 to 6 hours per day  
-- **Total:** ~18 to 20 hours per week
+- **Total:** 18 to 20 hours per week
 
 ---
 
