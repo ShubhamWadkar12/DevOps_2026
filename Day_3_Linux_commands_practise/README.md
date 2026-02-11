@@ -1,0 +1,16 @@
+- cd -> change directory
+- mkdir -> make directory
+- cp -> copy
+- mv -> move or rename files
+- touch ->create new files
+- rmdir -> remove directory
+- man -> to see entire manual
+- sudo apt install -> install new packages
+- sudo apt upgrade -> to upgrade current packages
+- cd .. -> return to previous file
+- cd \  -> root directory
+- pwd -> path
+- pip install ->installing packages
+- nano -> opens editor
+- systemctl start -> starts a service
+- 
