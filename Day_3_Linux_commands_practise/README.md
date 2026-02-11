@@ -1,16 +1,25 @@
-- cd -> change directory
-- mkdir -> make directory
-- cp -> copy
-- mv -> move or rename files
-- touch ->create new files
-- rmdir -> remove directory
-- man -> to see entire manual
-- sudo apt install -> install new packages
-- sudo apt upgrade -> to upgrade current packages
-- cd .. -> return to previous file
-- cd \  -> root directory
-- pwd -> path
-- pip install ->installing packages
-- nano -> opens editor
-- systemctl start -> starts a service
-- 
+- cd → change directory
+- cd .. → move to parent directory
+- cd / → go to root directory
+- mkdir → create directory
+- rmdir → remove empty directory
+- cp → copy files/directories
+- mv → move or rename files
+- touch → create new file
+- pwd → show current directory path
+- man → show manual of a command
+- sudo apt install → install packages
+- sudo apt upgrade → upgrade installed packages
+- pip install → install Python packages
+- nano → open text editor
+- systemctl start → start a service
+- ls → list items
+- cat → view file content
+- df -h → disk space
+- uptime → system running time
+- wc -> count the words
+
+- ping → check the network connection
+- ip addr → ip address check
+- dig → DNS looking
+- traceroute -> network path check
